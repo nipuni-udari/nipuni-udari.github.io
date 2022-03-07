@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b2a91740a8c31535bc08c982b387a514",
+    "revision": "345c67ef12aa117e14007061a8a794cd",
     "url": "/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/4.e91a4b36.chunk.css"
   },
   {
-    "revision": "2c0cefac120f2290b7bc",
-    "url": "/static/css/main.8601fb65.chunk.css"
+    "revision": "2551af5766ff90c8669e",
+    "url": "/static/css/main.07b3e186.chunk.css"
   },
   {
     "revision": "c10686ee4c7635e73738",
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/4.84fb4c75.chunk.js"
   },
   {
-    "revision": "2c0cefac120f2290b7bc",
-    "url": "/static/js/main.123f4d70.chunk.js"
+    "revision": "2551af5766ff90c8669e",
+    "url": "/static/js/main.39429263.chunk.js"
   },
   {
     "revision": "b39d62490b4a24f27ab3",
@@ -56,8 +56,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/codeInLogo.47a7a717.webp"
   },
   {
-    "revision": "51cf7192327488da3d2a171280680c16",
-    "url": "/static/media/contactMailDark.51cf7192.svg"
+    "revision": "d8fe3905d3f09c3b9e27fd5374227492",
+    "url": "/static/media/contact.d8fe3905.png"
   },
   {
     "revision": "325e0240d9660ad53b0bdb8a118a7ae3",
